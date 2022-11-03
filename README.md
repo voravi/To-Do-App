@@ -1,16 +1,25 @@
-# todo_app
+# Planet App
 
-A new Flutter project.
 
-## Getting Started
+### Output 1 ---------------------- : Output 2  ---------------------- : Output 3                 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<p float="left">
+  <img align="left" src="https://user-images.githubusercontent.com/96048173/199769670-cfe89e47-b39b-4393-89e7-34171e335f6d.jpg" alt="Screenshot_20221103_211321" width=250 height=480/>
+  
+  <img align="left" src="https://user-images.githubusercontent.com/96048173/199769683-5890ef46-c4cf-4af7-9cbd-938d7e907a69.jpg" alt="Screenshot_20221103_211323" width=250 height=480/>
+  
+  <img align="left" src="https://user-images.githubusercontent.com/96048173/199769695-e0ac8114-f506-4d57-916e-391b58e8a12c.jpg" alt="Screenshot_20221103_211332" width=250 height=480/>
+  </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
+ Mechanism Video
+  
+https://user-images.githubusercontent.com/96048173/199770062-d346e980-599f-49de-9a4e-fb41227ab0c0.mp4
+  
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+

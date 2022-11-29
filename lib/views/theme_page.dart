@@ -16,7 +16,7 @@ class _ThemePageState extends State<ThemePage> {
     return SimpleOutlinedButton(
       bgColor: Theme.of(context).backgroundColor,
       onPressed: () async {
-        Provider.of<ThemeProvider>(context, listen: false).changeTheme();
+
       },
       outlineColor: Colors.transparent,
       child: Text("Tap To change Theme",style: TextStyle(color: Theme.of(context).dividerColor,fontSize: 25,),)

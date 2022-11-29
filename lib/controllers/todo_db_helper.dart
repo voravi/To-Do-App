@@ -50,6 +50,15 @@ class ToDoDBHelper {
   }
 
 // Todo: updateData
+  Future<int> updateData({required ToDo data,int? id}) async {
+    db = await initDatabase();
+
+    String query = "UPDATE $tableName SET $colStartTime = ?, $colEndTime = ?, $colTodo = ? WHERE id=?;";
+
+    List args = [data.startTime,data.endTime,data.myToDo,id];
+
+    return await db!.rawUpdate(query,args);
+  }
 
 // Todo: fetchAllData
   Future<List<ToDo>> fetchAllData() async {
